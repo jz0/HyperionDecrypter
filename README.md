@@ -1,8 +1,6 @@
 # HyperionDecrypter
 
-Hyperion is a emerging anti-tamper protection developed by Byfron technologies, one of their anti-tamper tricks is to encrypt the protected binary .text section.
-
-This project will defeat this by triggering exceptions across the encrypted .text section -> Triggering these exceptions will result in protected regions to be decrypted and then re-encrypted by Hyperion.
+Old project
 
 ![Decryption](https://i.imgur.com/STCdMVw.png)
 
